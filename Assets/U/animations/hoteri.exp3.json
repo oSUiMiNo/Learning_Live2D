@@ -1,0 +1,10 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "hoteri",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}
